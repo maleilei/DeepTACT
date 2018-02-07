@@ -1,5 +1,5 @@
-# DeepCAT
-DeepCAT: predicting high-resolution chromatin contacts via bootstrapping deep learning
+# DeepTACT
+DeepTACT: predicting high-resolution chromatin contacts via bootstrapping deep learning
 
 # Requirements
 - hickle
